@@ -48,6 +48,10 @@ This project focuses on predicting diabetes using patient health data with thoro
 - Scikit-learn
 - imbalanced-learn (SMOTE)
 
+ ## License
+
+This project is licensed under the [MIT License](./LICENSE). 
+
 ---
 
 ##  Project Objective
